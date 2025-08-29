@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logoColor=white&logo=vite&color=646CFF" alt="vite" />
   </div>
 
-  <h3 align="center">Learning Docker</h3>
+  <h1 align="center">Learning Docker</h1>
 
 </div>
 
@@ -24,7 +24,6 @@
 
 <br />
 
-<a href="https://youtu.be/GFgJkfScVNU?feature=shared" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
